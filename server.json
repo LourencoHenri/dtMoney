@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 1320,
+      "createdAt": "2023-07-11T14:39:00.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 500,
+      "createdAt": "2023-07-11T14:39:00.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Pão de Queijo",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 4.90,
+      "createdAt": "2023-07-11T14:39:00.505Z"
+    },
+    {
+      "description": "Maçã",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-18T00:12:13.168Z",
+      "id": 4
+    }
+  ]
+}
